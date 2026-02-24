@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr4tik-2099&label=Profile%20views&color=0e75b6&style=flat" alt="pr4tik-2099" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, Cloud Services**
+- 🌱 I’m currently learning **Micro Services, Data Structures and Algorithms, MERN Stack, Cloud Services**
 
 - 💬 Ask me about **.NET, React, JavaScript**
 
