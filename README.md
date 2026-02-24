@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pratikmahato.062003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_wsJ8p2em6vxnGXXcxbSDjSfXhdvwyyX/view?usp=drive_link](https://drive.google.com/file/d/1_wsJ8p2em6vxnGXXcxbSDjSfXhdvwyyX/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1_wsJ8p2em6vxnGXXcxbSDjSfXhdvwyyX/view?usp=drive_link)
 
 - ⚡ Fun fact **I love cooking**
 
